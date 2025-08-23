@@ -16,7 +16,6 @@ A front-end Amazon clone built using **HTML**, **CSS**, and **JavaScript**. This
 ## Demo
 
 [Live Site:https://NatiDevHQ.github.io/Amazon-clone/amazon.html]  
-![Screenshot](./screenshots/amazon-clone.png)
 
 ## Technologies Used
 
