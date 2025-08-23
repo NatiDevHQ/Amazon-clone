@@ -28,5 +28,5 @@ A front-end Amazon clone built using **HTML**, **CSS**, and **JavaScript**. This
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/amazon-clone.git
+   git clone https://github.com/NatiDevHQ/amazon-clone.git
    cd amazon-clone
