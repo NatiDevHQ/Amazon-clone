@@ -1,4 +1,4 @@
-in development....
+in development
 # Amazon Clone (HTML, CSS & JavaScript)
 
 A front-end Amazon clone built using **HTML**, **CSS**, and **JavaScript**. This project mimics the look and basic functionality of Amazon’s homepage, including dynamic interactions like a working cart, search box behavior, and responsive layout.
